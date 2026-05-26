@@ -40,19 +40,19 @@ O projeto visa fornecer uma ferramenta prática e eficiente para o controle de t
 
 Abaixo, representações visuais das principais telas do sistema:
 
-1.  **Tela Inicial:** Menu principal de navegação.
+1.  **Tela Inicial:** Menu principal de navegação. <br>
     ![Tela inicial](docs/images/home.png)
 
-2.  **Clientes:** Cadastro e visualização de contatos.
+2.  **Clientes:** Cadastro e visualização de contatos. <br>
     ![Tela de clientes](docs/images/clientes.png)
 
-3.  **Projetos:** Gestão de contratos e taxas horárias.
+3.  **Projetos:** Gestão de contratos e taxas horárias. <br>
     ![Tela de projetos](docs/images/projetos.png)
 
-4.  **Registros de Horas:** Lançamentos diários e cálculos automáticos.
-    ![Tela de registros de horas](docs/images/registros-horas.png)
+4.  **Registros de Horas:** Lançamentos diários e cálculos automáticos. <br>
+    ![Tela de registros de horas](docs/images/horas.png)
 
-5.  **Resumo Geral:** Dashboard financeiro e de produtividade.
+5.  **Resumo Geral:** Dashboard financeiro e de produtividade. <br>
     ![Tela de resumo](docs/images/resumo.png)
 
 ## 🗄 Estrutura do Banco de Dados
