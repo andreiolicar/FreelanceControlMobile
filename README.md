@@ -86,4 +86,4 @@ O sistema é estruturado em torno de três pilares principais:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Andrei Oliveira Carneiro**.
+Andrei Oliveira Carneiro - 3° DS AMS
